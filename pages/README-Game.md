@@ -2,6 +2,21 @@
 
 本版面放的都是游戏，起始于2025年1月4号
 
+### 2026 年 7 月 28 号添加
+
+#### my19940202 - [GitHub](https://github.com/my19940202)
+* :white_check_mark: [摸鱼解压玩具](https://satisfylab.me/zh)：戳泡泡、打弹珠等解压小互动的合集，摸鱼时给大脑一段放空时间；免费，无需注册
+
+### 2026 年 7 月 26 号添加
+
+#### fastend - [Github](https://github.com/fastend)
+* :white_check_mark: [Grow a garden2](https://www.growagardens2codes.com/)：Grow a Garden 2 游戏攻略与代码查询网站
+
+### 2026 年 7 月 22 号添加
+
+#### xiaosongcai(泉州) - [Github](https://github.com/songxiaoc)
+* :white_check_mark: [Palworld Breeding Calculator](https://palworldbreeding.org/)：帮助 Palworld 玩家查询 Pal 配种组合和规划繁殖路线
+
 ### 2026 年 7 月 18 号添加
 
 #### Shuiwuhen(杭州) - [Github](https://github.com/290713469)

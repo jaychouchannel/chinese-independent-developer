@@ -16,6 +16,51 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 程序员版开始于 2019 年 4 月 11 号, 主版面开始于 2018 年 3 月
 -->
 
+### 2026 年 7 月 27 号添加
+
+#### sunmh207 - [GitHub](https://github.com/sunmh207)
+* :white_check_mark: [Site Guard](https://github.com/sunmh207/site-guard)：不让故障，悄悄发生。对站点的可用性、证书有效期、关键路径进行持续巡检，异常时自动推送钉钉 / 飞书 / 企业微信 — Docker Compose 自托管部署
+
+#### PinkR1ver - [Github](https://github.com/PinkR1ver)
+* :white_check_mark: [Vibe Roaster](https://github.com/PinkR1ver/vibe-roast)：本地读取 Codex、Claude Code、Cursor 等 AI 编程会话，生成 16 型编程人格、证据化吐槽与可分享卡片；一条 `npx` 命令运行，原始提示词不离开本机
+
+### 2026 年 7 月 25 号添加
+
+#### monto-fe - [Github](https://github.com/monto-fe)
+* :white_check_mark: [Probe](https://probe.uspeedo.online)：SMTP 邮箱验证诊断工具，通过 SMTP 协议验证邮箱地址真实性，支持 IP 池故障转移、一次性邮箱检测、29 个 RBL 黑名单扫描、域名健康检查（SPF/DKIM/DMARC/MX/PTR），HTTP API 和 CLI 双模式 - [更多介绍](https://github.com/monto-fe/smtp-probe)
+
+### 2026 年 7 月 24 号添加
+
+#### Jackeyhate9 - [Github](https://github.com/Jackeyhate9)
+* :white_check_mark: [Adeve](https://github.com/Jackeyhate9/Adeve)：面向独立开发者的 AI 项目推广工作台，把 GitHub、SaaS、App 等项目转成推广策略、多平台内容、跟踪链接和审批发布流程，支持本地运行与 Postiz 接入
+* :clock8: [工智审图](https://github.com/Jackeyhate9/gongzhi-review)：AI 辅助审图 Web 应用，面向工业建设项目多专业图纸，支持建筑、结构、电气图纸上传解析、规则检查、证据切片、人工复核和 HTML/PDF/DOCX 报告导出
+
+### 2026 年 7 月 23 号添加
+
+#### Limo(深圳) - [Github](https://github.com/yuhai0), [博客](https://yuhai.me)
+* :white_check_mark: [shex](https://github.com/yuhai0/shex)：将自然语言转换成命令行的 shell agent，支持多轮试错 - [更多介绍](https://github.com/yuhai0/shex)
+
+#### ItChinaW - [Github](https://github.com/ItChinaW)
+* :white_check_mark: [moyu-fish](https://www.npmjs.com/package/moyu-fish)：摸鱼炒股看盘 CLI，Claude 风格交互界面
+
+#### Sunrisepeak - [Github](https://github.com/Sunrisepeak), [mcpp-community](https://github.com/mcpp-community)
+
+* :white_check_mark: [mcpp](https://github.com/mcpp-community/mcpp)：现代 C++ 模块化构建工具 — 纯 C++23 模块编写（已实现自举），推动 C++ 进入 `import std` 时代 - [模块化库集合](https://github.com/mcpplibs) / [包索引](https://mcpplibs.github.io/mcpp-index/)
+
+### 2026 年 7 月 22 号添加
+
+#### hongshuo-wang - [Github](https://github.com/hongshuo-wang)
+* :white_check_mark: [TomlJump](https://github.com/hongshuo-wang/TomlJump)：TOML 导航插件，可在 TOML 配置、项目文件和 Go、Python、Java、TypeScript、JavaScript 源码声明之间双向跳转，支持 JetBrains IDE、VS Code 及兼容编辑器 - [更多介绍](https://github.com/hongshuo-wang/TomlJump/blob/main/README.zh-CN.md)
+
+### 2026 年 7 月 21 号添加
+
+#### DevEloLin - [Github](https://github.com/DevEloLin)
+* :white_check_mark: [mv3migrate](https://mv3migrate.elolin.com)：一条命令把 Chrome 扩展从 Manifest V2 迁到 V3——自动扫描、代码改写、生成可读的迁移报告
+* :white_check_mark: [Onrix AI](https://docs.getarriveready.com)：OpenAI 兼容的对话与生图 API，把现有 OpenAI SDK 的 base URL 和 key 一换就能用
+
+#### Tim - [Github](https://github.com/Timwood0x10)
+* :white_check_mark: [CodeScope](https://github.com/Timwood0x10/CodeScope)：代码图引擎 + MCP 协议工具链，让 AI 验证代码是否符合声明，支持 C/C++、Rust、Python、Go、JS/TS、Java 等 8 种语言，提供 40+ MCP 工具，可接入 Claude Desktop / Cursor - [Release](https://github.com/Timwood0x10/CodeScope/releases/tag/v0.2.3)
+
 ### 2026 年 7 月 20 号添加
 
 #### CallMeMing - [Github](https://github.com/CallMeMing)
@@ -55,7 +100,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [Nuka-Physics](https://github.com/kry4r/Nuka-Physics)：C++ 多后端物理引擎，支持机器人仿真与刚体/柔体/流体/布料多体耦合，支持 CUDA 硬件加速，兼容 USD/MJCF 通用机器人格式，支持 Python 脚本编辑场景并无缝接入 RL 训练
 
 #### SnowLeopard-io(重庆) - [Github](https://github.com/SnowLeopard-io), [博客](https://blog.csdn.net/h1486853830)
-* :white_check_mark: [CogitoAgent](https://github.com/SnowLeopard-io/CogitoAgent)：支持多端交互、内置安全沙箱与工具生态的 AI Agent 框架，提供开箱即用的智能自动化工作流
+* :white_check_mark: [CogitoAgent](https://github.com/SnowLeopard-io/CogitoAgent)：AI Agent 框架，支持多端交互、内置安全沙箱与工具生态，提供开箱即用的智能自动化工作流
 
 #### AneiangSoft(长沙) - [Github](https://github.com/AneiangSoft), [博客](https://www.cnblogs.com/aneiangsoft)
 * :white_check_mark: [Aneiang.Yarp](https://yarp.aneiang.com)：基于 YARP 的生产级 API 网关
@@ -85,10 +130,6 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 
 #### AIXP-Labs - [Github](https://github.com/orgs/AIXP-Labs/repositories)
 * :white_check_mark: [SoulBot](https://github.com/AIXP-Labs/SoulBot)：AI 智能体框架，内置 Creator，无需编程即可通过自然语言创建、进化和运行 AIAP 智能体程序及 AISP 智能体技能，通过 SoulACP 标准库调用 Claude Code 和 Codex，支持多智能体编排、协作和定时任务
-
-#### martian56 - [Github](https://github.com/martian56)
-* :white_check_mark: [Devlane](https://github.com/devlaner/devlane)：开源 Jira/Linear/Monday/ClickUp/Plane 替代方案，现代化项目管理平台，管理任务、冲刺、文档和事项分类
-* :white_check_mark: [Raven](https://github.com/martian56/raven)：结合 C++ 性能与控制力、Rust 安全性与现代特性、Python 可读性、Java 结构化设计以及 Go 简洁性的系统与应用编程语言
 
 #### boommanpro - [Github](https://github.com/boommanpro)
 * :white_check_mark: [gaia-workflow-engine](https://github.com/boommanpro/gaia-workflow-engine)：开源工作流前后端引擎（React + Java），独立部署、可扩展，可一键集成到各类项目中，适合做 Agent 的 workflow 模块，同时发布 Electron 端 - [体验网站](https://boommanpro.github.io/gaia-workflow-engine/)
@@ -172,7 +213,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [LiveTalking](https://livetalking.ai)：实时交互数字人框架，支持自定义形象与动作编排，可通过 WebRTC、RTMP 或虚拟摄像头输出
 
 #### TimWood - [Github](https://github.com/Timwood0x10)
-* :white_check_mark: [OmniScope-rs](https://github.com/Timwood0x10/OmniScope-rs)：基于 LLVM IR 的 Rust 实现跨语言 FFI 静态分析工具，能自动检测 Rust/C/Go/Python/Java 等语言边界上的内存所有权错误、资源泄漏、double-free 等安全问题。可**有效辅助**开发者定位FFI潜在bug。- [技术架构拆解](https://timwood0x10.github.io/myblog/log/omniscope-rs/01-why-omniscope/) 
+* :x: [OmniScope-rs](https://github.com/Timwood0x10/OmniScope-rs)：基于 LLVM IR 的 Rust 实现跨语言 FFI 静态分析工具，能自动检测 Rust/C/Go/Python/Java 等语言边界上的内存所有权错误、资源泄漏、double-free 等安全问题。可**有效辅助**开发者定位FFI潜在bug。- [技术架构拆解](https://timwood0x10.github.io/myblog/log/omniscope-rs/01-why-omniscope/) 
 
 #### xpf0000 - [Github](https://github.com/xpf0000/flyenv)
 * :white_check_mark: [FlyEnv](https://flyenv.com/)：适用于 Windows、macOS 和 Linux 的一体化本地开发环境，XAMPP、MAMP、PHPStudy 和 Laravel Herd 的开源替代方案 - [查看仓库](https://github.com/xpf0000/flyenv)
@@ -200,8 +241,8 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [Waveloom](https://github.com/Menfre01/waveloom)：终端 AI 编码 Agent（Go 实现），自建 Think-Act-Observe 推理循环、四级水位线上下文压缩与 8 步权限引擎，跨平台本地运行，不依赖外部编码 CLI
 
 #### eastspire - [Github](https://github.com/eastspire), [文档](https://docs.ltpp.vip)
-* :white_check_mark: [hyperlane](https://github.com/hyperlane-dev/hyperlane)：基于 Tokio 的轻量、高性能、跨平台 Rust HTTP 服务器库，内置中间件、WebSocket、SSE 与原始 TCP 支持 - [查看仓库](https://github.com/hyperlane-dev/hyperlane) - [crates.io](https://crates.io/crates/hyperlane)
-* :white_check_mark: [euv](https://github.com/euv-dev/euv)：基于 Rust + WebAssembly 的声明式跨平台 UI 框架，提供虚拟 DOM、精确依赖追踪的 Signal 系统、`html!` 类 JSX 宏、`class!` CSS-in-Rust、全局事件委托及可选 2D 游戏引擎 `euv-engine` - [查看仓库](https://github.com/euv-dev/euv) - [crates.io](https://crates.io/crates/euv) - [Demo](https://ltpp.vip/euv)
+* :white_check_mark: [hyperlane](https://github.com/hyperlane-dev/hyperlane)：Rust HTTP 服务器库，基于 Tokio，轻量、高性能、跨平台，内置中间件、WebSocket、SSE 与原始 TCP 支持 - [查看仓库](https://github.com/hyperlane-dev/hyperlane) - [crates.io](https://crates.io/crates/hyperlane)
+* :white_check_mark: [euv](https://github.com/euv-dev/euv)：UI 框架，基于 Rust + WebAssembly，声明式、跨平台，提供虚拟 DOM、精确依赖追踪的 Signal 系统、`html!` 类 JSX 宏、`class!` CSS-in-Rust、全局事件委托及可选 2D 游戏引擎 `euv-engine` - [查看仓库](https://github.com/euv-dev/euv) - [crates.io](https://crates.io/crates/euv) - [Demo](https://ltpp.vip/euv)
 
 ### 2026 年 7 月 13 号添加
 
@@ -211,7 +252,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [textric](https://textric-web-production.up.railway.app/)：纯 JavaScript 服务端文本布局引擎，无需 DOM/Canvas，解析字体文件提供像素级文本度量与自动换行，专为 AI 后端生成图片场景设计
 
 #### Simon He(上海) - [Github](https://github.com/Simon-He95)
-* :white_check_mark: [markstream-vue](https://github.com/Simon-He95/markstream-vue)：面向 AI 聊天的 Vue 3 / Nuxt 流式 Markdown 渲染器，可稳定渲染持续到达且未完成的 Markdown，支持 Mermaid、KaTeX、Shiki 和 Monaco
+* :white_check_mark: [markstream-vue](https://github.com/Simon-He95/markstream-vue)：Markdown 渲染器，面向 AI 聊天场景，基于 Vue 3 / Nuxt 流式渲染，可稳定渲染持续到达且未完成的 Markdown，支持 Mermaid、KaTeX、Shiki 和 Monaco
 
 #### redamancy231-create - [Github](https://github.com/redamancy231-create)
 * :white_check_mark: [etf-pattern-match-pybind11](https://github.com/redamancy231-create/etf-pattern-match-pybind11)：量化策略C++加速库，pybind11重写ETF形态匹配核心，DTW加速37倍/形态识别61倍，Python绑定开箱即用，MIT开源
@@ -226,7 +267,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 ### 2026 年 7 月 9 号添加
 
 #### wq19901103wq - [Github](https://github.com/wq19901103wq)
-* :white_check_mark: [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa)：基于多模态视觉感知与 LLM Agent 的 macOS 微信自动化框架，不碰协议不封号，用 AI 看屏幕自动回复微信消息，支持记忆系统、数字分身、智能家居控制和 3D 打印管理
+* :white_check_mark: [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa)：微信自动化框架（macOS），基于多模态视觉感知与 LLM Agent，不碰协议不封号，用 AI 看屏幕自动回复微信消息，支持记忆系统、数字分身、智能家居控制和 3D 打印管理
 
 ### 2026 年 7 月 7 号添加
 
@@ -244,7 +285,7 @@ Issue 和 PR 里偶尔有人提交一些不错的东西，但打开一看，不�
 * :white_check_mark: [TeamoRouter](https://teamorouter.com)：AI 编程 API 智能路由网关，一个 Key 接入 Claude/GPT/Gemini/DeepSeek，国内可直连，微信/支付宝充值
 
 #### nichenqin - [Github](https://github.com/nichenqin)
-* :white_check_mark: [Appaloft](https://appaloft.com)：面向 AI Agent 和独立开发者的本地优先、AI 原生单文件 PaaS，用一个配置文件管理应用部署，支持 CLI / GitHub Actions 部署到自有服务器 - [更多介绍](https://github.com/appaloft/appaloft)
+* :white_check_mark: [Appaloft](https://appaloft.com)：单文件 PaaS，面向 AI Agent 和独立开发者，本地优先、AI 原生，用一个配置文件管理应用部署，支持 CLI / GitHub Actions 部署到自有服务器 - [更多介绍](https://github.com/appaloft/appaloft)
 
 ### 2026 年 6 月 23 号添加
 
